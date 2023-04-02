@@ -1,0 +1,26 @@
+Success case
+===========
+The Multi Signature Account ID is: 0.0.3841221
+
+Balance of 0.0.3841221: 2000000000 tinybars.
+
+Balance of 0.0.3836337: 60000000000 tinybars.
+The transaction status is SUCCESS
+
+Balance of 0.0.3841221: 1000000000 tinybars.
+
+Balance of 0.0.3836337: 61000000000 tinybars.
+===============================================
+Failure case
+==========
+
+The Multi Signature Account ID is: 0.0.3841302
+
+Balance of 0.0.3841302: 2000000000 tinybars.
+
+Balance of 0.0.3836337: 61000000000 tinybars.
+
+The transaction errored with message INVALID_SIGNATURE
+
+Error:{"name":"StatusError","status":"INVALID_SIGNATURE","transactionId":"0.0.3562120@1679061886.549510416",
+"message":"receipt for transaction 0.0.3562120@1679061886.549510416 contained error status INVALID_SIGNATURE"}

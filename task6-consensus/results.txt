@@ -1,0 +1,3 @@
+The topic ID is: 0.0.3841477
+The message transaction status: 22
+Fri Mar 17 2023 15:12:46 GMT+0100 (Central European Standard Time) Received: My First Message!

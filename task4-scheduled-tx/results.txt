@@ -1,0 +1,10 @@
+The schedule ID of the schedule transaction is 0.0.3839519
+The schedule ID of the schedule transaction is 0.0.3839519
+The scheduledId you queried for is:  0.0.3839519
+The memo for it is:  Scheduled Transaction44!
+It got created by:  0.0.3836328
+It got payed by:  0.0.3836328
+The expiration time of the scheduled tx is:  2023-03-17T13:39:54.000Z
+The time of execution of the scheduled tx is:  2023-03-17T13:09:54.000Z
+Entering submitTransactionBase64 function
+The base64 receipt status is 22

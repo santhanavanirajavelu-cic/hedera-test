@@ -1,0 +1,20 @@
+- Created NFT with Token ID: 0.0.3836846 
+
+- User balance: 0 units of token ID 0.0.3836846
+==================================================
+
+- Created NFT 0.0.3836846 with serial: 1 
+
+- User balance: 1 units of token ID 0.0.3836846
+- Token association with the users account: SUCCESS 
+
+- Treasury balance: 1 NFTs of ID 0.0.3836846
+- Buyer's balance: 0 NFTs of ID 0.0.3836846
+
+- NFT transfer from Treasury to Buyer: SUCCESS 
+
+- Treasury balance: 0 NFTs of ID 0.0.3836846
+- Buyer's balance: 1 NFTs of ID 0.0.3836846
+=============================================
+
+Custom Royal fee

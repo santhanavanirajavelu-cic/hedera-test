@@ -1,0 +1,21 @@
+0.0.3836328
+302e020100300506032b6570042204204799c79f59dcb4f6a4115114be102607e97aec10419104fe65d89e45b1c87b86
+The smart contract ID is 0.0.3838484
+==================
+
+function 1 results
+=================
+0.0.3836328
+302e020100300506032b6570042204204799c79f59dcb4f6a4115114be102607e97aec10419104fe65d89e45b1c87b86
+The smart contract ID is 0.0.3838484
+The transaction status is SUCCESS
+The function output is 12
+
+
+Fucntion 2 results:
+=================
+0.0.3836328
+302e020100300506032b6570042204204799c79f59dcb4f6a4115114be102607e97aec10419104fe65d89e45b1c87b86
+The smart contract ID is 0.0.3838484
+The transaction status is SUCCESS
+The function 2 output is 14
